@@ -4,7 +4,7 @@ Instructions
 ```javascript
 // Shopping System
 // 1. Display the array below in list in html with all appropriate information provided (NOTE MUST BE DONE DYNAMICALLY )
-// 2. Style each item in each list  - list max shown at one time is 3
+// 2. Style each item in list
 // 3. Style each list to be responsive as the screen sizes
 // 4. Add a button to each item for add to cart
 // 5. Add logic to take the item clicked on and add to cart
