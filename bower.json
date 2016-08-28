@@ -1,0 +1,24 @@
+{
+  "name": "interviews",
+  "homepage": "https://github.com/greenpioneersolutions/interviews",
+  "authors": [
+    "Green Pioneer Solutions"
+  ],
+  "description": "The resources needed for interview projects",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.0",
+    "angular": "^1.5.8",
+    "react": "^15.3.1"
+  }
+}
