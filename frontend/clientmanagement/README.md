@@ -19,7 +19,7 @@
 * You may chose any css/js framework if you wish (ex. Foundation , React & angular ... etc)
 * You Must make it all responsive
 
-#### Find us [on GitHub](https://github.com/GreenPioneer)
+#### Find us [on GitHub](https://github.com/greenpioneersolutions)
 #### Find us [on Twitter](https://twitter.com/greenpioneerdev)
 #### Find us [on Facebook](https://www.facebook.com/Green-Pioneer-Solutions-1023752974341910)
 #### Find us [on The Web](http://greenpioneersolutions.com/)

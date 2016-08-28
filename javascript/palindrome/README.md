@@ -25,7 +25,7 @@ alert('test is a palindrome:'+ checkPalindrome('test'))//FALSE
 
 A palindrome is a word, phrase, number, or other sequence of characters which reads the same backward or forward. Allowances may be made for adjustments to capital letters, punctuation, and word dividers.
 
-#### Find us [on GitHub](https://github.com/GreenPioneer)
+#### Find us [on GitHub](https://github.com/greenpioneersolutions)
 #### Find us [on Twitter](https://twitter.com/greenpioneerdev)
 #### Find us [on Facebook](https://www.facebook.com/Green-Pioneer-Solutions-1023752974341910)
 #### Find us [on The Web](http://greenpioneersolutions.com/)
