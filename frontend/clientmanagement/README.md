@@ -1,5 +1,16 @@
 # Client Management System
 
+## Overview
+* Name: Client Management System
+* Difficulty: 5 out of 10
+* Timing: 
+	* Advanced Under 60 Minutes
+	* Intermediate 60 - 90 Minutes
+	* Beginner 90+ Minutes
+* Tech
+   	- [x] API Integration
+   	- [x] Javascript
+
 ##Instructions
 
 1. Display the array below in a list in html with all appropriate information provided (NOTE MUST BE DONE DYNAMICALLY )

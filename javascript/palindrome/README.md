@@ -1,5 +1,14 @@
 # Palindrome
 
+## Overview
+* Name: Palindrome
+* Difficulty: 5 out of 10
+* Timing: 
+	* Advanced Under 15 Minutes
+	* Intermediate 15 - 25 Minutes
+	* Beginner 25+ Minutes
+* Tech
+   	- [x] Javascript
 
 ## Instructions
 

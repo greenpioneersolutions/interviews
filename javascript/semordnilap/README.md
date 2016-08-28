@@ -1,5 +1,16 @@
 # Semordnilap
 
+## Overview
+* Name: Semordnilap
+* Difficulty: 6 out of 10
+* Timing: 
+	* Advanced Under 20 Minutes
+	* Intermediate 20 - 35 Minutes
+	* Beginner 35+ Minutes
+* Tech
+   	- [x] API Integration
+   	- [x] Javascript
+       
 ## Instructions
 
 1. Create Function checkSemordnilap to test if a string is a Semordnilap(coined for words that spell a different word in reverse )

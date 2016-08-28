@@ -1,5 +1,17 @@
 # Dashboard
 
+## Overview
+* Name: Dashboard
+* Difficulty: 3 out of 10
+* Timing: 
+	* Advanced Under 45 Minutes
+	* Intermediate 45 - 65 Minutes
+	* Beginner 65+ Minutes
+* Tech
+   	- [x] CSS
+   	- [x] Bootstrap
+   	- [x] Html
+
 ##Instructions
 
 1. Build web page with bootstrap

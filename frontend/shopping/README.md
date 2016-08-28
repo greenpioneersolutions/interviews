@@ -1,5 +1,17 @@
 # Shopping System
 
+## Overview
+* Name: Shopping System
+* Difficulty: 4 out of 10
+* Timing: 
+	* Advanced Under 30 Minutes
+	* Intermediate 30 - 45 Minutes
+	* Beginner 45+ Minutes
+* Tech
+   	- [x] CSS
+   	- [x] Javascript
+   	- [x] HTML
+
 ## Instructions
 
 1. Display the array below in list in html with all appropriate information provided (NOTE MUST BE DONE DYNAMICALLY )
